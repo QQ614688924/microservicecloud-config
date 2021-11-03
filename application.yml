@@ -9,6 +9,6 @@ spring:
     name: microservicecloud-config-huangxy-dev
 ---
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: microservicecloud-config-huangxy-test
